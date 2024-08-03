@@ -1,0 +1,373 @@
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form4.resources
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form5.resources
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form6.resources
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form7.resources
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form8.resources
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form9.resources
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form10.resources
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form11.resources
+C:\Users\LENOVO T440s\source\repos\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form12.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form10.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form11.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form12.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form4.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form5.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form6.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form7.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form8.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form9.resources
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinForms.B1C80A35.Up2Date
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\Lenovo\Downloads\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form13.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\New folder\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form10.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form11.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form12.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form13.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form4.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form5.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form6.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form7.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form8.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form9.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CopyComplete
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.browseproducts.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form14.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.product.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.customermanagement.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.sales.resources
+C:\Users\LENOVO T440s\Desktop\New folder\obj\Debug\net6.0-windows\WinFormsApp6.categorycus.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.categorycus.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.customermanagement.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form10.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form11.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form12.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form13.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form14.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form4.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form5.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form6.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form7.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form8.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form9.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.product.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.sales.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CopyComplete
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.food.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.clothing.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.add_to_cart.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.accessories.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.medicine.resources
+C:\Users\LENOVO T440s\Desktop\dbsproject\New folder\obj\Debug\net6.0-windows\WinFormsApp6.perfume.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\inventory project\New folder\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.accessories.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.add_to_cart.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.categorycus.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.clothing.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.customermanagement.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.food.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form10.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form11.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form12.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form13.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form14.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form4.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form5.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form6.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form7.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form8.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.Form9.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.medicine.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.perfume.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.product.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.sales.resources
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinForms.B1C80A35.Up2Date
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\inventory project\New folder\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.accessories.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.add_to_cart.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.categorycus.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.clothing.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.customermanagement.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.food.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form10.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form11.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form12.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form13.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form14.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form4.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form5.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form6.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form7.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form8.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.Form9.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.medicine.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.perfume.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.product.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.sales.resources
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinForms.B1C80A35.Up2Date
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\Lenovo\Documents\dbsproject\dbsproject\obj\Debug\net6.0-windows\WinFormsApp6.checkout.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.accessories.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.add_to_cart.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.categorycus.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.checkout.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.clothing.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.customermanagement.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.food.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form10.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form11.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form12.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form13.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form14.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form4.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form5.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form6.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form7.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form8.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form9.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.medicine.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.perfume.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.product.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.sales.resources
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CopyComplete
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\LENOVO T440s\Documents\hamari mehnat\hamari mehnat\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.accessories.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.add_to_cart.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.categorycus.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.checkout.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.clothing.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.customermanagement.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.food.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form10.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form11.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form12.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form13.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form14.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form4.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form5.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form6.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form7.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form8.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.Form9.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.medicine.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.perfume.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.product.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.sales.resources
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CopyComplete
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\LENOVO T440s\Desktop\hamari mehnat\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.accessories.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.add_to_cart.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.categorycus.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.checkout.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.clothing.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.customermanagement.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.food.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form10.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form11.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form12.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form13.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form14.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form4.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form5.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form6.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form7.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form8.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.Form9.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.medicine.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.perfume.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.product.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.sales.resources
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CopyComplete
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\LENOVO T440s\Desktop\MiniMartManagementSystem\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
